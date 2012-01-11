@@ -153,8 +153,9 @@ INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '20980', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '2512', '-200');
 INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '2101', '-1');
 -- TROOOOOOL HUNTER FTW
-INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '-6126', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '-2504', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '6126', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '6126', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2504', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2512', '-200');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2101', '-1');
 
