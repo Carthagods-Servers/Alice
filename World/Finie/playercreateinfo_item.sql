@@ -139,6 +139,7 @@ INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '23348', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '12247', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '2512', '-200');
 INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '2101', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '3', '23347', '-1');
 -- Orc Hunter
 INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '127', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('2', '3', '6126', '-1');
