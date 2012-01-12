@@ -7,7 +7,7 @@ CREATE TABLE `playercreateinfo_item` (
   KEY `playercreateinfo_race_class_index` (`race`,`class`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
--- supression des objets prédifinie 
+-- supression des objets prédifinie warrior 
 -- Human Warrior
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '39', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '40', '-1'); 
@@ -60,7 +60,7 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40829', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40850', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40870', '1');
 
--- Ajout de Hors Set
+-- Ajout de Hors Set Warrior
 INSERT INTO `playercreateinfo_item` VALUES ('0','1','40884','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','1','40883','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','1','40890','1');
@@ -99,7 +99,7 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40934', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40940', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40964', '1');
 
--- Ajout de Hors Set
+-- Ajout de Hors Set Paladin
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40890','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40883','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40884','1');
@@ -108,9 +108,8 @@ INSERT INTO `playercreateinfo_item` VALUES ('0','2','40978','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40979','1');
 
 
--- supression des objets prédifinie 
+-- supression des objets prédifinie Hunter 
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '12282', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '0', '51809', '-1');
 -- Dwarf Hunter
 INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '148', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('3', '3', '147', '-1');
@@ -152,21 +151,21 @@ INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '20900', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '20980', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '2512', '-200');
 INSERT INTO `playercreateinfo_item` VALUES ('10', '3', '2101', '-1');
--- TROOOOOOL HUNTER FTW
+-- TROLL HUNTER
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '127', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '6126', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2504', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2512', '-200');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2101', '-1');
 
--- Ajout de S7 Chasseur Parure de gladiateur implacable
+-- Ajout de S7 Hunter Parure de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41088', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41144', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41158', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41206', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41218', '1');
 
--- Ajout de Hors Set
+-- Ajout de Hors Set Hunter
 INSERT INTO `playercreateinfo_item` VALUES ('0','3','41226','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','3','41236','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','3','41231','1');
