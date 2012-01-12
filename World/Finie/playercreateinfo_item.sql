@@ -90,6 +90,9 @@ INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '2361', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23477', '-1');
 -- Blood Elf Paladin
 INSERT INTO `playercreateinfo_item` VALUES ('10', '2', '23346', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '2', '24143', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '2', '24145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '2', '24146', '-1');
 
 -- Ajout de S7 Paladin Justification de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40792', '1');
