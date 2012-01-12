@@ -54,14 +54,12 @@ INSERT INTO `playercreateinfo_item` VALUES ('8', '1', '6125', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '1', '25861', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('8', '1', '139', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('8', '1', '49778', '-1');
-
 -- Ajout de S7 Gerrier gladiateur implacable en plaques
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40790', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40810', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40829', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40850', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '1', '40870', '1');
-
 -- Ajout de Hors Set Warrior
 INSERT INTO `playercreateinfo_item` VALUES ('0','1','40884','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','1','40883','1');
@@ -106,7 +104,6 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40928', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40934', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40940', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '2', '40964', '1');
-
 -- Ajout de Hors Set Paladin
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40890','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40883','1');
@@ -114,6 +111,8 @@ INSERT INTO `playercreateinfo_item` VALUES ('0','2','40884','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40984','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40978','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','2','40979','1');
+
+
 
 
 -- supression des objets prédifinie Hunter 
@@ -166,17 +165,60 @@ INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '6126', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2504', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2512', '-200');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '3', '2101', '-1');
-
 -- Ajout de S7 Hunter Parure de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41088', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41144', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41158', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41206', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '3', '41218', '1');
-
 -- Ajout de Hors Set Hunter
 INSERT INTO `playercreateinfo_item` VALUES ('0','3','41226','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','3','41236','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','3','41231','1');
 
 
+-- supression des objets prédifinie Warlock 
+-- Human Warlock
+INSERT INTO `playercreateinfo_item` VALUES ('1', '9', '35', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '9', '57', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '9', '6097', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '9', '1396', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '9', '59', '1');
+-- Gnome Warlock
+INSERT INTO `playercreateinfo_item` VALUES ('7', '9', '35', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '9', '57', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '9', '6097', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '9', '1396', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '9', '59', '1');
+-- Orc Warlock
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '35', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '6129', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '1396', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '59', '1');
+-- Undead Warlock
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '35', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '6129', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '1396', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '59', '1');
+-- Blood Elf Warlock
+INSERT INTO `playercreateinfo_item` VALUES ('10', '9', '20978', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '9', '20892', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '9', '6097', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '9', '1396', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '9', '59', '1');
+-- S7 Démoniste Suaire gangréné de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '41994', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '41999', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '42006', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '42012', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '9', '42018', '1');
+-- HS Warlock
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','41910','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','41899','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','41904','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','41894','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','41882','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','41886','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','49181','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','49179','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','9','49183','1');
