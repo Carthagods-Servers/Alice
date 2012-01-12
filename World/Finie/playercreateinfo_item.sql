@@ -85,6 +85,9 @@ INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23473', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23346', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23474', '-1'); 
 INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23475', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23476', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '2361', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '2', '23477', '-1');
 -- Blood Elf Paladin
 INSERT INTO `playercreateinfo_item` VALUES ('10', '2', '23346', '-1');
 
