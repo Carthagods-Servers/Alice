@@ -7,6 +7,8 @@ CREATE TABLE `playercreateinfo_item` (
   KEY `playercreateinfo_race_class_index` (`race`,`class`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
+INSERT INTO `playercreateinfo_item` VALUES ('0', '0', '51809', '4'); -- Ajout de 4 troues portables pour toutes les Class/Race
+
 -- supression des objets prédifinie warrior 
 -- Human Warrior
 INSERT INTO `playercreateinfo_item` VALUES ('1', '1', '39', '-1'); 
