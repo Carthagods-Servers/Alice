@@ -291,10 +291,10 @@ INSERT INTO `playercreateinfo_item` VALUES ('0','4','41841','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','4','41833','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','4','41837','1');
 -- Human Priest
-INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '56', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '6096', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '1395', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '55', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '6098', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '53', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '52', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '51', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '35', '-1');
 -- Dwarf Priest
 INSERT INTO `playercreateinfo_item` VALUES ('3', '5', '6098', '-1');
