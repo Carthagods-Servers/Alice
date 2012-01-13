@@ -352,3 +352,56 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41886', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '49181', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '49179', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '49183', '1');
+
+
+-- Drein Chaman
+INSERT INTO `playercreateinfo_item` VALUES ('11', '7', '23345', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '7', '23344', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '7', '23348', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '7', '36', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '7', '2362', '-1');
+-- Orc Chman
+INSERT INTO `playercreateinfo_item` VALUES ('2', '7', '154', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '7', '153', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '7', '36', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '7', '2362', '-1');
+-- Tauren Chaman
+INSERT INTO `playercreateinfo_item` VALUES ('6', '7', '154', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('6', '7', '153', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('6', '7', '36', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('6', '7', '2362', '-1');
+-- Troll Chaman
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
+-- S7 chaman Tonnepoing de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '40995', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41008', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41020', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41034', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41045', '1');
+-- S7 chaman Trembleterre de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41082', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41138', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41152', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41200', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41212', '1');
+-- S7 chaman Vague guerrière de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '40994', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41002', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41014', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41028', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41039', '1');
+-- HS Chaman
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41066','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41071','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41076','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41061','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41052','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41056','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41226','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41236','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','7','41231','1');
