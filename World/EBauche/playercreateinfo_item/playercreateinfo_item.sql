@@ -495,8 +495,12 @@ INSERT INTO `playercreateinfo_item` VALUES ('0','11','41841','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','11','41833','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','11','41837','1');
 -- Correction DK
-INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-4');
-INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34657', '-10');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '41751', '-10');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34657', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34658', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38147', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34652', '-1');
