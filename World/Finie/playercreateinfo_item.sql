@@ -222,3 +222,72 @@ INSERT INTO `playercreateinfo_item` VALUES ('0','9','41886','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','9','49181','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','9','49179','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','9','49183','1');
+
+
+-- Human Rogue
+INSERT INTO `playercreateinfo_item` VALUES ('1', '4', '49', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '4', '48', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '4', '47', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '4', '2092', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '4', '50055', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '4', '28979', '-1');
+-- Dwarf Rogue
+INSERT INTO `playercreateinfo_item` VALUES ('3', '4', '49', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '4', '48', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '4', '47', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '4', '20929', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '4', '50055', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '4', '25861', '-1');
+-- Night Elf Rogue
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '49', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '48', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '47', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '2092', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '50055', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '28979', '-1');
+-- Gnome Rogue
+INSERT INTO `playercreateinfo_item` VALUES ('7', '4', '49', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '4', '48', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '4', '47', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '4', '2092', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '4', '50055', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '4', '28979', '-1');
+-- Orc Rogue
+INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '2105', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '120', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '121', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '2092', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '50055', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '25861', '-1');
+-- Undead Rogue
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '2105', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '120', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '121', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '2092', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '50055', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '28979', '-1');
+-- Troll Rogue
+INSERT INTO `playercreateinfo_item` VALUES ('8', '4', '6136', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '4', '6137', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '4', '6138', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '4', '2092', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '4', '50055', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '4', '25861', '-1');
+-- Bloof Elf Rogue
+INSERT INTO `playercreateinfo_item` VALUES ('10', '4', '20897', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '4', '20896', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '4', '20898', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '4', '20982', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '4', '50057', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '4', '28979', '-1');
+-- S7 Voleur Habits de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '4', '41651', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '4', '41656', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '4', '41673', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '4', '41684', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '4', '41768', '1');
+-- HS Voleur
+INSERT INTO `playercreateinfo_item` VALUES ('0','4','41841','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','4','41833','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','4','41837','1');
+
