@@ -290,4 +290,65 @@ INSERT INTO `playercreateinfo_item` VALUES ('0', '4', '41768', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','4','41841','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','4','41833','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','4','41837','1');
-
+-- Human Priest
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '56', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '6096', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '1395', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '55', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '5', '35', '-1');
+-- Dwarf Priest
+INSERT INTO `playercreateinfo_item` VALUES ('3', '5', '6098', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '5', '53', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '5', '52', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '5', '51', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('3', '5', '35', '-1');
+-- Night Elf Priest
+INSERT INTO `playercreateinfo_item` VALUES ('4', '5', '6119', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '5', '53', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '5', '52', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '5', '51', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('4', '5', '3661', '-1');
+-- Drein Priest
+INSERT INTO `playercreateinfo_item` VALUES ('11', '5', '23322', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '5', '6097', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '5', '1396', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '5', '3661', '-1');
+-- Undead Priest
+INSERT INTO `playercreateinfo_item` VALUES ('5', '5', '6144', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '5', '53', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '5', '52', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '5', '51', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '5', '35', '-1');
+-- Troll Priest
+INSERT INTO `playercreateinfo_item` VALUES ('8', '5', '6144', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '5', '53', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '5', '52', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '5', '35', '-1');
+-- Bloof Elf Priest
+INSERT INTO `playercreateinfo_item` VALUES ('10', '5', '20891', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '5', '53', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '5', '52', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '5', '51', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '5', '20978', '-1');
+-- S7 Prêtre Grande tenue de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41916', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41922', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41928', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41935', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41941', '1');
+-- S7 Prêtre Investiture de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41855', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41860', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41865', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41870', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '5', '41875', '1');
+-- HS Priest
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','41910','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','41899','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','41904','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','41894','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','41882','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','41886','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','49181','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','49179','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','5','49183','1');
