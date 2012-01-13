@@ -371,12 +371,10 @@ INSERT INTO `playercreateinfo_item` VALUES ('6', '7', '153', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('6', '7', '36', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('6', '7', '2362', '-1');
 -- Troll Chaman
-INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '6134', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '6135', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '36', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '7', '2362', '-1');
 -- S7 chaman Tonnepoing de gladiateur implacable
 INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '40995', '1');
 INSERT INTO `playercreateinfo_item` VALUES ('0', '7', '41008', '1');
