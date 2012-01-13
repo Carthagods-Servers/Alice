@@ -403,3 +403,56 @@ INSERT INTO `playercreateinfo_item` VALUES ('0','7','41056','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','7','41226','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','7','41236','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','7','41231','1');
+
+
+-- Human Mage
+INSERT INTO `playercreateinfo_item` VALUES ('1', '8', '56', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '8', '6096', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '8', '1395', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '8', '55', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('1', '8', '35', '-1');
+-- Gnome Mage
+INSERT INTO `playercreateinfo_item` VALUES ('7', '8', '56', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '8', '6096', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '8', '1395', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '8', '55', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('7', '8', '35', '-1');
+-- Drein Mage
+INSERT INTO `playercreateinfo_item` VALUES ('11', '8', '23479', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '8', '23473', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '8', '23478', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('11', '8', '3661', '-1');
+-- Undead Mage
+INSERT INTO `playercreateinfo_item` VALUES ('5', '8', '6140', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '8', '6096', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '8', '1395', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '8', '55', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '8', '35', '-1');
+-- Troll Mage
+INSERT INTO `playercreateinfo_item` VALUES ('8', '8', '6140', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '8', '6096', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '8', '1395', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '8', '55', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('8', '8', '35', '-1');
+-- Bloof Elf Mage
+INSERT INTO `playercreateinfo_item` VALUES ('10', '8', '20893', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '8', '6096', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '8', '20894', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '8', '20895', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('10', '8', '20978', '-1');
+-- S7 Mage Tenue de parade de gladiateur implacable
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41947', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41954', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41960', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41966', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41972', '1');
+-- HS Mage
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41910', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41899', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41904', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41894', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41882', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '41886', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '49181', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '49179', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '8', '49183', '1');
