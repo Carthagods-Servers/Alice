@@ -260,12 +260,12 @@ INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '2092', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '50055', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('2', '4', '25861', '-1');
 -- Undead Rogue
-INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '2105', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '120', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '121', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '2092', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '50055', '-1');
-INSERT INTO `playercreateinfo_item` VALUES ('4', '4', '28979', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '4', '2105', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '4', '120', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '4', '121', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '4', '2092', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '4', '50055', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('5', '4', '28979', '-1');
 -- Troll Rogue
 INSERT INTO `playercreateinfo_item` VALUES ('8', '4', '6136', '-1');
 INSERT INTO `playercreateinfo_item` VALUES ('8', '4', '6137', '-1');
