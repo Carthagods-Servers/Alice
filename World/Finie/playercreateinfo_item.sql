@@ -494,6 +494,31 @@ INSERT INTO `playercreateinfo_item` VALUES ('0','11','41622','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','11','41841','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','11','41833','1');
 INSERT INTO `playercreateinfo_item` VALUES ('0','11','41837','1');
-
-
-
+-- Correction DK
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38145', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '41751', '-10');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34657', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34658', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '38147', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34652', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34655', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34659', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34650', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34653', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34649', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34651', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34656', '-1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '34648', '-1');
+-- S7DK
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '40791', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '40811', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '40830', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '40851', '1');
+INSERT INTO `playercreateinfo_item` VALUES ('0', '6', '40871', '1');
+-- HS S7 DK
+INSERT INTO `playercreateinfo_item` VALUES ('0','6','40884','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','6','40883','1');
+INSERT INTO `playercreateinfo_item` VALUES ('0','6','40890','1');
