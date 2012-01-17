@@ -1,0 +1,25 @@
+PNJ:
+  -Set - 
+		 - T 9.5		100001
+		 - S8			100002	
+		 - T 10.5		100003
+	-Weapon
+		 - S7			100029
+		 - S8			100030
+	-Offset
+			-PvE +245	100006 ya trop d item HS PVE +245  donc on choisi klk item et on les mettent IG bel wa7da bel wa7da
+			*Pve 245	100007
+	-Bijou 
+			*S7			100008 a ajouter manuellement IG
+			*S8			100009 a ajouter manuellement IG
+			-PvE +245	100010
+			*PvE 245	100011
+	*Glyphe 			100012-100021
+	*Gemme				100022
+	*MetaGemme			100023
+	-Monture			100024 a faire IG c est mieux xD
+	*Enchante			100025
+	-H&S Enchante		100026 kifkif IG c est plus facile 
+	-pnj vente GN		100027
+	-pnj tele			100028
+	-PNJ METIER   100029 lezem le joueur tjih metier 450 :s avc all recipe normalment faisable avc les command
